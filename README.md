@@ -1,6 +1,8 @@
 # Intern Seva Website
 
 Your Gateway to PM Internship Scheme - A modern React/Next.js application for managing government internship programs.
+<img width="1898" height="919" alt="image" src="https://github.com/user-attachments/assets/83274b80-ee4b-4430-9c6a-564fcf46b283" />
+
 
 ## 🚀 Tech Stack
 
@@ -10,6 +12,8 @@ Your Gateway to PM Internship Scheme - A modern React/Next.js application for ma
 - **Forms**: React Hook Form with Zod validation
 - **Charts**: Recharts
 - **Animations**: Tailwind CSS Animate
+  <img width="1900" height="854" alt="image" src="https://github.com/user-attachments/assets/80c2d308-75e9-4560-adaa-ace3e0d8d338" />
+
 
 ## 📋 Prerequisites
 
